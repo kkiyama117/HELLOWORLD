@@ -1,5 +1,3 @@
-import codecs
-
 if __name__ == '__main__':
     # 原作準拠によりとても冗長になっております
     hello_world_letters = ("1001000",
